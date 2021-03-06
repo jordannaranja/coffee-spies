@@ -1,21 +1,70 @@
-# coffee-spies 
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Introduction 
-Thank you so much for your help in participating in the usability test for “Coffee Spies”! 
+## Available Scripts
 
-The goal for our trial testing in this initial stage of testing is to identify the main usability issues using a high fidelity prototype of the application; in order to improve both the design and experience for future users. Additionally, we ask that you keep in mind this is one of the first steps we must take when designing our application, and that we are only concerned with user interaction at this stage in development. 
+In the project directory, you can run:
 
-Coffee Spies Overview 
-Coffee Spies is a social media platform developed by three students in the Digital Design & Development (D3) program at the British Columbia Institute of Technology (BCIT). It’s main function is to allow for coffee enthusiasts to post and explore all content related to.. well, Coffee! Anything from “My Favourite Starbucks Drink”,  “Go-To Coffee Spot”, or “Homemade Coffee Recipe” is allowed within the application. Users can browse and interact with these posts with the ability to leave a like or a comment.   
+### `yarn start`
 
-First, we’d like for you to download this document as a .DOC or .DOCX (or save a copy within your own google drive) and to complete the tasks that follow within the next page. Once you’ve completed your document, please send it back to the facilitator that sent it to you. 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Please access our high fidelity Figma prototype using the following link: 
-https://www.figma.com/file/ss5AMqklFdTh85cYU5RMgN/Final_MDIA_3109?node-id=0%3A1 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Once you’ve opened the link, press the play (Present) button located at the top right hand corner of the page, next to the “Share” option. It will allow you to view our prototype as if it were a real application. 
+### `yarn test`
 
-Further down on this document, you will be given 4 different tasks. Using the Figma, complete each task on the list. Keep in mind as you work to complete each task, that the evaluation is of the Coffee Spies application, not of you - the participant. 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Each task can be worked on at your own pace, if any task takes longer than 5 minutes, or you feel you are unable to complete a task due to functionality,  please note down the issues and feel free to move on. 
+### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
